@@ -1,0 +1,12 @@
+{
+  "name": "leslie",
+  "main": "server.js",
+  "version": "",
+  "dependencies": {
+    "express": "*",
+    "express-handlebars": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
